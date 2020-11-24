@@ -1,1 +1,2 @@
 local master 本地新建c.txt
+git pull == git fetch + git merge
